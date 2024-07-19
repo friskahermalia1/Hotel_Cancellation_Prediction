@@ -1,0 +1,12 @@
+pip
+db-dtypes
+imblearn
+category-encoders==2.6.3
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+jupyter
+numpy==1.26.4
+pandas==1.5.3
+xgboost==2.0.3
